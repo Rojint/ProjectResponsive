@@ -160,8 +160,13 @@ h3 {
 }
 
 @media (max-width: 992px) {
+    #second-page {
+        background: #d9e1ea !important;
+        height: 130vh;
+    }
+
     .form-container {
         width: 60%;
-        height: 30vh;
+        height: auto;
     }
 }
